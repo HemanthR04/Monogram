@@ -8,7 +8,7 @@ function Footer() {
                         <p className="w-40">305 King St. W.Suite 502 Kitchener, ON Canada</p>
                     </div>
                     <div className="quick-links">
-                    <p className="font-bold text-sm my-8">QUICK LINKS</p>
+                    <p className="font-bold text-sm my-8 ">QUICK LINKS</p>
                     <ul>
                         <li> <a href="">Home </a></li>
                         <li> <a href="">How it Works</a></li>

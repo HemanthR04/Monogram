@@ -22,7 +22,8 @@ export default {
         heroHeight:"700px",
         productheight:"100%",
         bannerHeight:"500px",
-        imgHeihgt:"500px"
+        imgHeihgt:"500px",
+        heroMobile:"400px"
       },
       fontFamily:{
         Inter:"Inter"
