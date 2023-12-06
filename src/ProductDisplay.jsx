@@ -34,7 +34,7 @@ const productDetails = [
 function ProductDisplay() {
     return (
         <>
-            <div className="product-display w-10/12 mx-auto  grid grid-cols-2 items-center place-items-center gap-4 my-12 p-4">
+            <div className="product-display w-10/12 mx-auto my-10 sm:grid sm:grid-cols-2 items-center place-items-center gap-20 my-12 p-4">
 
 
                 {productDetails.map((object) => (

@@ -5,7 +5,15 @@ import Banner from "./Banner";
 import OtherProfuctDisplay from "./OtherProductDisplay";
 import Footer from "./Footer";
 
+
 function App() {
+  
+
+
+
+  
+
+
   return ( 
     <>
       <NavBar/>

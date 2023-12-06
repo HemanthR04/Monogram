@@ -16,17 +16,21 @@ export default {
       },
       width:{
         navwidth:"98%",
-        productwidth:"550px"
+        productwidth:"550px",
+        hproductwidth:"600px"
       },
       height:{
         heroHeight:"700px",
         productheight:"100%",
         bannerHeight:"500px",
+        bannermobile:"300px",
         imgHeihgt:"500px",
         heroMobile:"400px"
       },
       fontFamily:{
-        Inter:"Inter"
+        Inter:"Inter",
+        Supreme :"Supreme",
+        Comico:"Comico"
       },
       backgroundImage: {
         'hero-pattern': "url('https://monogramcc.com/static/9a0b554db1990565457610c5f83b3ad7/91943/shop_cta_xl_896f6b8270.webp')",
